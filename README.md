@@ -10,7 +10,7 @@ This repository contains scripts for classifying parliamentary speeches into:
 - `test.py`: Evaluates the fine-tuned model on the test dataset and saves predictions.
 
 ## Requirements
-- python:
+- ## Python:
 - transformers
 - torch
 - pandas
